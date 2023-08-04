@@ -10,4 +10,4 @@ Brought To You By EduardLOL(eduardlol)
 Join Discord At: discord.gg/jNm8rNTC2r
 ]]--
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLEduard/Eduard-s-Hub-V2-UI-Revamp-/main/script",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLEduard/Eduard-s-Hub-V2-UI-Revamp-/main/script.lua",true))()
